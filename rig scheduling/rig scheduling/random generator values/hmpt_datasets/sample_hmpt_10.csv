@@ -1,0 +1,11 @@
+names,Production rate in barrels per day (Pi),Processing time in days(ti),release_date,Due date/end date(Di)
+well 1,11,3,07-01-2023,5
+well 2,45,3,07-01-2023,3
+well 3,29,2,07-01-2023,2
+well 4,18,4,07-01-2023,2
+well 5,12,1,07-01-2023,4
+well 6,31,4,07-01-2023,5
+well 7,41,5,07-01-2023,3
+well 8,18,2,07-01-2023,1
+well 9,38,5,07-01-2023,2
+well 10,27,5,07-01-2023,4
